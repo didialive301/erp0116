@@ -1,0 +1,11 @@
+class CCustomer{
+
+static void Main()
+{}
+
+
+
+
+
+
+}
